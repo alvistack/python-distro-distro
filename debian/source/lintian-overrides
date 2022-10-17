@@ -1,0 +1,4 @@
+python-distro source: file-without-copyright-information
+python-distro source: no-debian-changes
+python-distro source: source-contains-prebuilt-windows-binary
+python-distro source: source-package-encodes-python-version
