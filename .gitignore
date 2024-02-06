@@ -18,7 +18,7 @@ __pycache__/
 /parts/
 /sdist/
 /var/
-/*.egg-info/
+*.egg-info
 .installed.cfg
 *.egg
 
@@ -58,3 +58,5 @@ coverage.xml
 
 # QuickBuild
 .qbcache/
+
+.pybuild/
