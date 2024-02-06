@@ -1,0 +1,4 @@
+python3-distro: copyright-without-copyright-notice
+python3-distro: initial-upload-closes-no-bugs
+python3-distro: no-manual-page
+python3-distro: zero-byte-file-in-doc-directory
